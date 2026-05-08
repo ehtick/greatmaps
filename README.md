@@ -1,8 +1,5 @@
-# OpenClaw Trading Hub
+# Solana trading bot
 
-Welcome to OpenClaw Trading Hub — your free AI-powered trading and automation platform.
-
-Our mission is simple: help traders and businesses grow with advanced automation, AI-powered signals, and high-performance trading tools.
 
 ## What We Build
 
