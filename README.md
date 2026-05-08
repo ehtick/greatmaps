@@ -1,4 +1,4 @@
-# OpenClaw Trading Hub
+# Solana trading bot
 
 Welcome to OpenClaw Trading Hub — your free AI-powered trading and automation platform.
 
@@ -41,77 +41,79 @@ We believe strong systems create strong results. Our goal is to build reliable t
 Join OpenClaw Trading Hub and build smarter with automation.
 ### If you have any Question, Contact to me on telegram: @OCtradinghubofficial
 
-https://github.com/user-attachments/assets/d8f5110a-6401-42bd-b5f5-b154c7b0a418
 
 
-
-### 💡 Trading Tools & Infrastructure (Recommended Stack)
-
-This bot is designed to work alongside a high-performance trading stack including **Solana trading bots, MEV tools, smart money trackers, and low-latency infrastructure**.
-
-Using the right tools can significantly improve **execution speed, alpha detection, and profitability**.
-
-> ⚡ Some links include fee discounts or access benefits.
 
 ---
 
-### ⚡ Execution Layer (Fastest Trading Tools)
+## 💡 Free Trading Tools (Recommended Trading Tools)
 
-**Axiom Trade** — `solana trading bot / fast execution / low fees`
+
+Using the right tools can significantly improve **execution speed, alpha detection, and profitability**.
+
+> ### ⚡ Below referral links include fee **discounts** or access **benefits**.
+
+
+---
+
+<a href="https://axiom.trade/@423116"><img src="./assets/axiom.png" alt="Axiom Trade" width="30" height="30"></a> [**Axiom Trade** — `solana trading bot / fast execution / low fees`](https://axiom.trade/@423116)
 
 * Optimized for **on-chain trading & sniping**
 * 10–30% lower trading fees
+* Support multi Wallets
 * Reliable for high-frequency execution
   → [Start using Axiom](https://axiom.trade/@423116)
 
-**Odin Bot** — `automated trading bot / strategy execution`
+ <a href="https://app.odinbot.io/join?code=b92mfb"><img src="./assets/odinbot-logo-horizontal.webp" alt="Odin Bot" width="90" height="30"></a>  [**Odin Bot** — `🚀automated super fast copy trading bot / strategy execution /scan alpha`](https://app.odinbot.io/join?code=b92mfb)
 
-* Fully automated trading strategies
+* Fully automated copy trading strategies
 * Low-latency execution engine
   → [Access Odin Bot](https://app.odinbot.io/join?code=b92mfb)
 
-**Bloom (Telegram Bot)** — `ultra-fast solana trading bot`
+<a href="https://t.me/BloomSolana_bot?start=ref_541WLB0DZS"><img src="./assets/bloom.avif" alt="Bloom" width="90" height="30" style="background-color: #000;"></a>  [ — `ultra-fast solana trading telegram bot`](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
 * Lightweight + extremely fast execution
 * Ideal for mobile + quick trades
   → [Launch Bloom](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
----
+<a href="https://t.me/solana_trojanbot?start=r-cryptoking11060"><img src="./assets/trojan%20logo.svg" alt="Trojan on Solana" width="30" height="30" style="background-color: #000;"></a>  [**Trojan Bot** — `fast on-chain trading telegram bot`](https://t.me/solana_trojanbot?start=r-cryptoking11060)
 
-### 📊 Alpha & Analytics (Edge Tools)
+* Built for fast, advanced on-chain trading
+* Gives full control from Telegram
+  → [Launch Trojan Bot](https://t.me/solana_trojanbot?start=r-cryptoking11060)
 
-**GMGN** — `smart money tracker / early token discovery`
+
+
+## 📊 Alpha & Analytics (Edge Tools)
+
+<a href="https://gmgn.ai/r/L53EOll4"><img src="./assets/GMGNLogoDark.svg" alt="GMGN" width="80" height="30" style="background-color: #000;"></a> [— `smart money tracker / early token discovery`](https://gmgn.ai/r/L53EOll4)
 
 * Track **whales & insider activity**
 * Discover tokens before they trend
   → [Explore GMGN](https://gmgn.ai/r/L53EOll4)
 
----
 
-### 🧠 Advanced Trading Platforms
 
-**Padre** — `advanced trading interface / pro tools`
+## 🧠 Advanced Trading Platforms
 
+ <a href="https://trade.padre.gg/rk/423116"><img src="./assets/pumpfunterminal.svg" alt="Pump.fun Terminal" width="80" height="30"></a>  [**Padre (pump.fun terminal)** — `advanced trading interface / pro tools`](https://trade.padre.gg/rk/423116)
 * Enhanced execution controls
 * Additional trading utilities
   → [Open Padre](https://trade.padre.gg/rk/423116)
 
-**Polymarket** — `prediction market / trading signals`
-
-* Trade on real-world outcomes
-* Useful for **sentiment-driven strategies**
-  → [Try Polymarket](https://polymarket.com/?r=cryptoking110600)
-
----
-
 ### 🖥️ Low-Latency Infrastructure (Critical for MEV)
 
-**Recommended VPS Setup** — `low latency trading server / solana bot hosting`
+**Recommended VPS + ShredStream Setup** — `low latency trading server / solana bot hosting`
 
-For best performance, run the bot on a **New York-based VPS** (close to major trading infrastructure):
- → [Try Tradingvps.io](https://app.tradingvps.io/aff.php?aff=22)
+For best performance, run the bot on a [**New York-based low-latency VPS**](https://app.tradingvps.io/aff.php?aff=22) together with [**ShredStream**](https://www.shredstream.com/?ref=ZZXK7TPB) for faster Solana data access and execution:
+
+→[Try Tradingvps](https://app.tradingvps.io/aff.php?aff=22)
+
+→ [Try shredstream](https://www.shredstream.com/?ref=ZZXK7TPB)
+
 * ⚡ Lower latency = faster execution
 * 🔁 More reliable transaction inclusion
+* 📡 Faster Solana shred/transaction streaming
 * 🧩 Better performance for MEV / sniping strategies
 
 ---
@@ -125,7 +127,12 @@ Using this setup improves:
 * Access to early opportunities (alpha)
 
 ---
+---
+## 💰 Trading AI Agent Services
+[<table> <tr> <th>Service</th> <th>Price</th> <th>What You Get</th> </tr> <tr> <td>🟢 Starter Agent</td> <td>$100+</td> <td>OpenClaw-based agent, basic automation, ready-to-run setup</td> </tr> <tr> <td>🟡 Custom Trading Agent</td> <td>$200+</td> <td>Custom strategy, wallet tracking, signal-based execution</td> </tr> <tr> <td>🔴 Full Trading Bot (copy / Sniper / customized strategy)</td> <td>$500+</td> <td>Fully customized bot, high-frequency execution, anti-rug filters</td> </tr> </table>](https://t.me/OCtradinghubofficial)
 
+---
+https://github.com/user-attachments/assets/d8f5110a-6401-42bd-b5f5-b154c7b0a418
 ### ⚠️ Disclaimer
 
 * These tools are optional and not required to run the bot
