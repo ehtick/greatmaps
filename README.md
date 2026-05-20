@@ -28,20 +28,33 @@ Using the right tools can significantly improve:
 > **Referral links below may include fee discounts, bonuses, or exclusive benefits.**
 
 ---
-
 ## 🥇 Solana Trading Bots
 
-### <a href="https://axiom.trade/@423116"><img src="./assets/axiom.png" alt="Axiom Trade" width="28" height="28"></a> [Axiom Trade](https://axiom.trade/@423116)
+<table>
+<tr>
+<td width="420" valign="top">
+
+### <a href="https://axiom.trade/@423116"><img src="./assets/axiom.png" alt="Axiom Trade" width="28" height="28"></a> <a href="https://axiom.trade/@423116">Axiom Trade</a>
 
 **Fast Solana trading terminal for sniping and active trading.**
 
-* Ultra-fast execution
-* 10–30% lower trading fees
-* Multi-wallet support
-* Optimized for high-frequency trading
+- Ultra-fast execution
+- 10–30% lower trading fees
+- Multi-wallet support
+- Optimized for high-frequency trading
 
 👉 **Recommended for serious Solana traders**
 
+</td>
+<td width="600" align="center" valign="top">
+
+<a href="https://axiom.trade/@423116">
+  <img src="https://github.com/user-attachments/assets/ce974a68-e41b-43f4-9dcd-b9059283f0e9" alt="Axiom Dashboard" width="100%">
+</a>
+
+</td>
+</tr>
+</table>
 ---
 
 ### <a href="https://app.odinbot.io/join?code=b92mfb"><img src="./assets/odinbot-logo-horizontal.webp" alt="Odin Bot" width="90" height="30"></a> [Odin Bot](https://app.odinbot.io/join?code=b92mfb)
