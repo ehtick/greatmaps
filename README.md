@@ -1,4 +1,4 @@
-# 🚀 OpenClaw Trading Hub
+# 🚀 Solana Trading Bot Hub
 
 > **AI-Powered Trading Bots, Solana Tools, and Automation Services**
 
