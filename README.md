@@ -2,7 +2,7 @@
 
 > **AI-Powered Trading Bots, Solana Tools, and Automation Services**
 
-Welcome to **OpenClaw Trading Hub** — a free platform for traders, developers, and businesses looking to automate trading, discover alpha, and deploy high-performance infrastructure.
+Welcome to **OC Trading Hub** — a free platform for traders, developers, and businesses looking to automate trading, discover alpha, and deploy high-performance infrastructure.
 
 We build custom trading bots, AI agents, and low-latency systems for:
 
@@ -54,9 +54,9 @@ Using the right tools can significantly improve:
 
 </td>
 </tr>
-</table>
----
-
+<tr>
+  <td width="420" valign="top">
+    
 ### <a href="https://app.odinbot.io/join?code=b92mfb"><img src="./assets/odinbot-logo-horizontal.webp" alt="Odin Bot" width="90" height="30"></a> [Odin Bot](https://app.odinbot.io/join?code=b92mfb)
 
 **Automated copy trading and strategy execution bot.**
@@ -68,8 +68,14 @@ Using the right tools can significantly improve:
 
 👉 **Best for hands-off trading automation**
 
----
-
+  </td>
+<td width="600" align="center" valign="top">
+  <a href="https://app.odinbot.io/join?code=b92mfb"><img src="https://cdn.discordapp.com/attachments/1235292980349501511/1503662640218771526/image.png?ex=6a0eb676&is=6a0d64f6&hm=7e6f8e745d95316b5046ea43c93dcfb5845ddbf9c5ed3afcd6ab1b69032d0906" alt="Odin Bot" width="100%" ></a>
+ </td>    
+</tr>
+<tr>
+  <td width="420" valign="top">
+    
 ### <a href="https://t.me/BloomSolana_bot?start=ref_541WLB0DZS"><img src="./assets/bloom.avif" alt="Bloom Bot" width="90" height="30"></a> [Bloom Bot](https://t.me/BloomSolana_bot?start=ref_541WLB0DZS)
 
 **Ultra-fast Telegram trading bot for Solana.**
@@ -80,8 +86,15 @@ Using the right tools can significantly improve:
 
 👉 **Ideal for Telegram-first traders**
 
----
+  </td>
+<td width="600" align="center" valign="top">
+  <a href="https://t.me/BloomSolana_bot?start=ref_541WLB0DZS"><img src="https://github.com/user-attachments/assets/d81c80b6-513e-453a-a4ed-6d6dba3bca4e" alt="Bloom Bot" width="100%" ></a> 
 
+ </td>    
+</tr>
+<tr>
+  <td width="420" valign="top">
+    
 ### <a href="https://t.me/solana_trojanbot?start=r-cryptoking11060"><img src="./assets/trojan%20logo.svg" alt="Trojan Bot" width="28" height="28"></a> [Trojan Bot](https://t.me/solana_trojanbot?start=r-cryptoking11060)
 
 **Advanced Telegram bot for on-chain trading.**
@@ -92,8 +105,17 @@ Using the right tools can significantly improve:
 
 👉 **Popular among active traders**
 
----
 
+
+
+  </td>
+<td width="600" align="center" valign="top">
+  <a href="https://t.me/solana_trojanbot?start=r-cryptoking11060"><img src="https://docs.trojanonsolana.com/~gitbook/image?url=https%3A%2F%2F455021030-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPbjL84bcW0ZSO2seerWR%252Fuploads%252FmE4C4JOiHthM3mRymIr8%252FCopyTrade.png%3Falt%3Dmedia%26token%3Dba6410ea-fb79-4cd3-b8cf-1702b9d354fa&width=768&dpr=3&quality=100&sign=e74d1309&sv=2" alt="Trojan Bot" width="100%" ></a>
+ </td>    
+</tr>
+<tr>
+  <td width="420" valign="top">
+    
 ## 📊 Alpha Discovery & Analytics
 
 ### <a href="https://gmgn.ai/r/L53EOll4"><img src="./assets/GMGNLogoDark.svg" alt="GMGN" width="80" height="30"></a> [GMGN](https://gmgn.ai/r/L53EOll4)
@@ -106,9 +128,14 @@ Using the right tools can significantly improve:
 * Monitor market sentiment
 
 👉 **Essential for finding early opportunities**
-
----
-
+  </td>
+<td width="600" align="center" valign="top">
+   <a href="https://gmgn.ai/r/L53EOll4"><img src="https://github.com/user-attachments/assets/be906a93-095e-48f7-931c-bd7a58ccc122" alt="GMGN" width="100%" ></a> 
+ </td>    
+</tr>
+<tr>
+  <td width="420" valign="top">
+    
 ## 🧠 Professional Trading Platforms
 
 ### <a href="https://trade.padre.gg/rk/423116"><img src="./assets/pumpfunterminal.svg" alt="Padre" width="80" height="30"></a> [Padre](https://trade.padre.gg/rk/423116)
@@ -121,27 +148,47 @@ Using the right tools can significantly improve:
 
 👉 **Built for power users**
 
+  </td>
+<td width="600" align="center" valign="top">
+<a href="https://trade.padre.gg/rk/423116"><img src="https://github.com/user-attachments/assets/f3a515a4-7b34-413f-90a1-da79e426e82e" alt="Padre" width="100%"></a>
+ </td>    
+</tr>
+</table>
+
+
 ---
 
 ## 🖥️ Low-Latency Infrastructure
-
-### [TradingVPS](https://app.tradingvps.io/aff.php?aff=22)
+<table>
+  <tr>
+  <td width="420" valign="top">
+    ### [TradingVPS](https://app.tradingvps.io/aff.php?aff=22)
 
 New York-based low-latency VPS optimized for crypto trading.
 
+  </td>
+<td width="600" align="center" valign="top">
+  <a href="https://app.tradingvps.io/aff.php?aff=22"><img src="https://github.com/user-attachments/assets/a489dc4c-fefd-4fc5-a110-0e5305800125" alt="vps" width="100%"></a>
+ </td>    
+</tr>
+  <tr>
+  <td width="420" valign="top">
+    
 ### [ShredStream](https://www.shredstream.com/?ref=ZZXK7TPB)
 
 Real-time Solana shred and transaction streaming.
-
-### Why This Stack Matters
-
-Using a dedicated VPS with ShredStream improves:
-
 * ⚡ Transaction speed
 * 📡 Market data latency
 * 🔁 Transaction inclusion rates
 * 📈 Fill rates
 * 🧩 MEV and sniping performance
+
+  </td>
+<td width="600" align="center" valign="top">
+  <a href="https://www.shredstream.com/?ref=ZZXK7TPB"><img src="https://github.com/user-attachments/assets/1cc46339-f4a9-4cdd-bbec-58163d33d48f" alt="shredstream" width="100%"></a>
+ </td>    
+</tr>
+</table>
 
 ---
 
@@ -225,7 +272,7 @@ Our goal is to build reliable systems that reduce manual work and improve execut
 Need a custom trading bot or automation solution?
 
 * **Telegram:** [https://t.me/OCtradinghubofficial](https://t.me/OCtradinghubofficial)
-* **GitHub:** [https://github.com/OpenClaw](https://github.com/OpenClaw)
+
 
 ---
 
