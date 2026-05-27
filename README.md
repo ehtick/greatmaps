@@ -162,7 +162,7 @@ Using the right tools can significantly improve:
 <table>
   <tr>
   <td width="420" valign="top">
-    ### [TradingVPS](https://app.tradingvps.io/aff.php?aff=22)
+### [TradingVPS](https://app.tradingvps.io/aff.php?aff=22)
 
 New York-based low-latency VPS optimized for crypto trading.
 
