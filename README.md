@@ -17,6 +17,8 @@ We build custom trading bots, AI agents, and low-latency systems for:
 ---
 
 ## ⭐ Recommended Trading Tools
+(🌟🌟🌟click and signup! so your polymarket account will be boosted instantly)<a href="https://polymarket.com/?r=cryptoking1106">
+<img width="277" height="45" alt="image" src="https://github.com/user-attachments/assets/06fc93ff-82b6-4199-b285-e11117fa0dea" />
 
 Using the right tools can significantly improve:
 
