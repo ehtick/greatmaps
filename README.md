@@ -164,6 +164,7 @@ Using the right tools can significantly improve:
 <table>
   <tr>
   <td width="420" valign="top">
+   
 ### [TradingVPS](https://app.tradingvps.io/aff.php?aff=22)
 
 New York-based low-latency VPS optimized for crypto trading.
@@ -216,6 +217,7 @@ Real-time analysis, alerts, and decision-support tools.
 
 Tailored systems built around your trading workflow.
 
+ ### https://agentvps.io for trading agent
 ---
 
 ## 💰 Trading AI Agent Services
