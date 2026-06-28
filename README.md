@@ -217,7 +217,7 @@ Real-time analysis, alerts, and decision-support tools.
 
 Tailored systems built around your trading workflow.
 
- ### https://agentvps.io for trading agent
+### https://agentvps.io for trading agent
 ---
 
 ## 💰 Trading AI Agent Services
